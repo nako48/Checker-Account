@@ -1,1 +1,1 @@
-<center># Powered By NakoCoders</center>
+<center>Powered By NakoCoders</center>
