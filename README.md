@@ -1,5 +1,4 @@
                                       ------------------------------------
-                                            ExaBytes Account Checker
-                                              Code By : NakoCoders
+                                             Powered By NakoCoders
                                       ------------------------------------
 
